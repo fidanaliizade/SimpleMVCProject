@@ -1,0 +1,11 @@
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\bin\Debug\net6.0\Business.Core.deps.json
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\bin\Debug\net6.0\Business.Core.dll
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\bin\Debug\net6.0\Business.Core.pdb
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\obj\Debug\net6.0\Business.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\obj\Debug\net6.0\Business.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\obj\Debug\net6.0\Business.Core.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\obj\Debug\net6.0\Business.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\obj\Debug\net6.0\Business.Core.dll
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\obj\Debug\net6.0\refint\Business.Core.dll
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\obj\Debug\net6.0\Business.Core.pdb
+C:\Users\II novbe\source\repos\MVCProject\Business.Core\obj\Debug\net6.0\ref\Business.Core.dll

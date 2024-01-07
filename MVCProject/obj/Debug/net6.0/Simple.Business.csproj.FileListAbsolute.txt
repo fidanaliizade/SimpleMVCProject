@@ -1,0 +1,17 @@
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\bin\Debug\net6.0\Simple.Business.deps.json
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\bin\Debug\net6.0\Simple.Business.dll
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\bin\Debug\net6.0\Simple.Business.pdb
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\Simple.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\Simple.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\Simple.Business.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\Simple.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\Simple.Business.dll
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\refint\Simple.Business.dll
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\Simple.Business.pdb
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\ref\Simple.Business.dll
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\bin\Debug\net6.0\Business.Core.dll
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\bin\Debug\net6.0\Simple.DAL.dll
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\bin\Debug\net6.0\Simple.DAL.pdb
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\bin\Debug\net6.0\Business.Core.pdb
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\Simple.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\MVCProject\MVCProject\obj\Debug\net6.0\Simple.Business.csproj.CopyComplete
